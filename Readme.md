@@ -7,4 +7,4 @@ Fully-responsive one page static website for a construction services agency.
 * HTML
 * CSS
 
-[Check the demo here](https://aoa97.github.io/csa/)
+[Check the demo here](https://aoa97.github.io/csa-static/)
